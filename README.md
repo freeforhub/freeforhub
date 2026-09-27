@@ -55,18 +55,22 @@
 - Exploring **WebRTC transport module decoupling** — extracting & wrapping BWE modules as standalone CMake libraries
 - Developing an **OnCall AI Agent** with LangGraph + RAG + MCP tool integration
 
-### GitHub Stats
+### GitHub Activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=freeforhub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freeforhub&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- Contribution Graph Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/freeforhub/freeforhub/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/freeforhub/freeforhub/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/freeforhub/freeforhub/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=freeforhub&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=freeforhub&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
 </div>
 
@@ -81,7 +85,7 @@
 <a href="http://jowntown.xyz/">
   <img src="https://img.shields.io/badge/Website-jowntown.xyz-4FC08D?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-<a href="https://blog.csdn.net/">
+<a href="https://blog.csdn.net/weixin_53186909?type=blog">
   <img src="https://img.shields.io/badge/CSDN-2k%2B%20followers-C71A1B?style=for-the-badge&logo=blog&logoColor=white" />
 </a>
 
